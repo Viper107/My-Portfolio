@@ -35,3 +35,55 @@ nav ul li button{
     padding: 15px;
     bottom: 22px;
 }
+
+.first{
+    width: 50%;
+    height: 100%;
+
+}
+
+.first *{
+    padding: 0;
+    margin: 10px;
+}
+
+.first h3{
+    font-size: 23px;
+}
+
+.first h2{
+    font-size: 28px;
+    color: #FD6F00;
+}
+
+.first h1{
+    font-size: 69px;
+}
+
+.first p{
+    font-size: 18px;
+}
+
+.first button{
+    font-size: 23px;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 10px;
+}
+
+.myself{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 0px;
+    padding: 50px 0px;
+}
+
+.second ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.second ul li{
+    list-style: none;
+}
