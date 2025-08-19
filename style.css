@@ -87,3 +87,16 @@ nav ul li button{
 .second ul li{
     list-style: none;
 }
+
+.first div{
+    font-size: 23px;
+    font-weight: bold;
+}
+.first input{
+   width: 500px;
+  height: 15px;
+  color: #FD6F00;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+}
