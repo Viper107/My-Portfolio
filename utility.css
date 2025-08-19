@@ -1,0 +1,13 @@
+.bgcolor{
+    background-color: white;
+}
+.buttonclg{
+    background-color: #FD6F00;
+    color: white;
+}
+.border{
+    border: 2px solid red;
+}
+.flex{
+    display: flex;
+}
