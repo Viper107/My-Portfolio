@@ -168,3 +168,50 @@ nav ul li button{
 ::-webkit-scrollbar-thumb:hover {
   background: #a0a0a0;       /* darker on hover */
 }
+
+.Projects .cards{
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+.Projects .cards ul{
+    gap: 20px;
+}
+
+.Projects .cards ul li{
+    list-style: none;
+}
+
+.Projects .cards ul li button{
+    font-size: 23px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #545454;
+}
+
+.Projects .cards ul li button:hover{
+    font-size: 25px;
+    background-color: #FD6F00;
+    cursor: pointer;
+    color: #f5f5f5;
+}
+
+.Projects .card{
+    height: 300px;
+    width: 550px;
+
+    padding: 0;
+}
+
+.Projects .card img{
+    height: 300px;
+    width: 550px;
+}
+
+.allProjects{
+    gap: 50px;
+    overflow-x: scroll;
+    width: 1200px;
+}
+
